@@ -36,7 +36,7 @@ Implementación de un modelo de Regresión Logística con el algoritmo LBFGS.
 
 ## Conclusión.
 Este proyecto exploró múltiples métodos de aprendizaje supervisado, desde la clasificación binaria en problemas médicos hasta el reconocimiento de patrones en datos más complejos.
-Se compararon distintos modelos (k-NN y Regresión Logística), destacando las fortalezas y debilidades de cada uno.                                                                 
+Se compararon distintos modelos (k-NN y Regresión Logística), destacando las fortalezas y debilidades de cada uno.          
 El proyecto proporcionó una base sólida para el análisis y predicción de datos en múltiples escenarios, incluyendo la clasificación personalizada.                                          
 ## Autor
 Isaac Heredia Diaz
